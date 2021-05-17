@@ -1,4 +1,4 @@
-# Data-Science
+# Basic Statistics
 DS Projects
 [Assignment_1.docx](https://github.com/AravindBajantri/Data-Science/files/6493882/Assignment_1.docx)
 
